@@ -4,8 +4,7 @@ I'm a student, currently learning Python.
 
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 - 👋 My personal [blog](https://pr2tik1.github.io/blog/)
-- ✍️ [Medium Profile](https://pr2tik1.medium.com/)
-
+- ✍️ [Linkedin Profile](https://www.linkedin.com/in/felipezanardi)
 ---
 #### Languages:
 
