@@ -6,5 +6,3 @@ I am a data analyst at [Elucidata](https://elucidata.io/).
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 - 👋 My personal [blog](https://pr2tik1.github.io/blog/)
 - ✍️ [Medium Profile](https://pr2tik1.medium.com/)
-
----
