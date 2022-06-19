@@ -1,6 +1,6 @@
 <a href="https://twitter.com/felipezanard" target="_blank" rel="nofollow"><img align="right" alt="Felipe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/felipezanardi" target="_blank" rel="nofollow"><img align="right" alt="Felipe's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-## Hi 👋 I am Felipe! 
-I am a data analyst at [Elucidata](https://elucidata.io/). 
+## Hi, I'm Felipe! 
+I'm a student, currently learning Python.
 
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 - 👋 My personal [blog](https://pr2tik1.github.io/blog/)
