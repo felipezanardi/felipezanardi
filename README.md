@@ -2,9 +2,9 @@
 ## Hi, I'm Felipe! 
 I'm a student, currently learning Python.
 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog](https://pr2tik1.github.io/blog/)
-- <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> [Linkedin Profile](https://www.linkedin.com/in/felipezanardi)
+- 🌐 Visit my [porfolio website](https://felipezanardi.github.io/) for complete background and contact.
+- 👋 My personal [blog](https://felipezanardi.github.io/blog/)
+- ✍️ [Linkedin Profile](https://www.linkedin.com/in/felipezanardi)
 <h2 align="left">
 
 #### Languages:
