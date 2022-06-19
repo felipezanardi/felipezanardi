@@ -6,7 +6,6 @@ I'm a student, currently learning Python.
 - 👋 My personal [blog](https://pr2tik1.github.io/blog/)
 - ✍️ [Medium Profile](https://pr2tik1.medium.com/)
 
----
 ## Languages:
 
 <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
