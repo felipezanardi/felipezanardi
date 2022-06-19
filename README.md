@@ -1,4 +1,4 @@
-<a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/felipezanard" target="_blank" rel="nofollow"><img align="right" alt="Felipe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/felipezanardi" target="_blank" rel="nofollow"><img align="right" alt="Felipe's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 ## Hi 👋 I am Felipe! 
 I am a data analyst at [Elucidata](https://elucidata.io/). 
 
