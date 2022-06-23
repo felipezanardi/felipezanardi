@@ -3,8 +3,8 @@
 I'm a student, currently learning Python.
 
 - Visit my [porfolio website](https://felipezanardi.github.io/) for complete background and contact.
-- 👋 My personal [blog](https://felipezanardi.github.io/blog/)
-- ✍️ [Linkedin Profile](https://www.linkedin.com/in/felipezanardi)
+- My personal [blog](https://felipezanardi.github.io/blog/)
+- [Linkedin Profile](https://www.linkedin.com/in/felipezanardi)
 <h2 align="left">
 
 #### Languages:
