@@ -11,8 +11,5 @@ I'm a student, currently learning Python.
 
 <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Felipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
           
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="felipezanardi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipezanardi?trk=profile-badge">Felipe Zanardi</a></div>
-              
-          
 (still working on it)
   
