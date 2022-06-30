@@ -16,7 +16,7 @@ I'm a student, currently learning Python.
 
 <details>
   <summary>aaa</summary>
-   <img src="https://komarev.com/ghpvc/?username=felipezanardi&color=yellow&label=Github Profile Views"/>
+   <img src="https://komarev.com/ghpvc/?username=felipezanardi&color=yellow&label=Profile Views"/>
    
    test :)
 </details>
