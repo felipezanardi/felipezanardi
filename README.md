@@ -12,9 +12,8 @@ I'm a student, currently learning Python.
 <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Felipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
           
 <details>
-  <summary>:zap: Github Stats</summary>
-   <img align="left" alt="felipezanardi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipezanardi&show_icons=true&hide_border=true" />
-   <img align="right" alt="felipezanardi's favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipezanardi&language=compact&hide_border=true" />
+  <summary>:zap: aaa</summary>
+   test :)
 </details>
   
 (still working on it)
