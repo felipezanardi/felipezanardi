@@ -7,7 +7,7 @@ I'm a student, currently learning Python.
 - [Linkedin Profile](https://www.linkedin.com/in/felipezanardi)
 <h2 align="left">
 
-#### <details>
+<details>
   <summary>
     Test: 
   </summary>
