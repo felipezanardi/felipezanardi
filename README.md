@@ -8,17 +8,9 @@ I'm a student, currently learning Python.
 <h2 align="left">
 
 <details>
-  <summary>
-    #### Test: 
-  </summary>
-  <br/>
-  <div>
-    <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    hi
-    idk
-    aa
-    :)
-  </div>
+  <summary>:zap: Github Stats</summary>
+   <img align="left" alt="felipezanardi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipezanardi&show_icons=true&hide_border=true" />
+   <img align="right" alt="felipezanardi's favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipezanardi&language=compact&hide_border=true" />
 </details>
 
 #### Languages:
