@@ -17,10 +17,8 @@ I'm a student, currently learning Python.
 </p>
 
 <details>
-  <summary>aaa</summary>
+  <summary>test</summary>
    <img src="https://komarev.com/ghpvc/?username=felipezanardi&color=yellow&label=Profile Views"/>
-   
-   test :)
 </details>
 
 (still working on it)
